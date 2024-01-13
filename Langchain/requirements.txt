@@ -1,3 +1,6 @@
 langchain
-openai
+openai==0.28.1
 huggingface_hub
+azure-search-documents
+torch
+azure-identity
