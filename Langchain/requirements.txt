@@ -4,3 +4,5 @@ huggingface_hub
 azure-search-documents
 torch
 azure-identity
+python-dotenv
+streamlit
